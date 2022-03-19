@@ -1,1 +1,1 @@
-// a simple script to fetch bookdata to the librar.
+// a simple script to fetch bookdata to the library.
